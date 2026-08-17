@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+backend/data/*.sqlite
+backend/data/*.sqlite3
+backend/data/*.db
+**/korunacs-*.json
+**/*.pem
+**/*.key
+*.log
